@@ -1,0 +1,40 @@
+8
+
+dir
+60
+svn://111.221.40.101:50515/mcci/modules/pms/ajax
+svn://111.221.40.101:50515
+
+
+
+2010-08-28T06:38:26.040919Z
+60
+laksono
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c1261a96-0b50-42a7-92be-3d93de70ea03
+
+ajax_pms.php
+file
+
+
+
+
+2010-08-29T01:27:24.000000Z
+fb33fa61ef2e93b6345a99984c63cffa
+2010-08-28T06:38:26.040919Z
+60
+laksono
+

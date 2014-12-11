@@ -1,0 +1,25 @@
+.PMSSubtitle {
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+.PMSTotalRow {
+	border-top: 1px solid;
+}
+
+.PMSWeight {
+	text-align: right;
+}
+
+.PMSValue {
+	text-align: right;
+}
+
+.PMSEditorButtons {
+	margin-top: 5px;
+	text-align: center;
+}
+
+.PMSError {
+	color: #ff0000;
+}
