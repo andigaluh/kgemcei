@@ -1,0 +1,8 @@
+<?php
+if ( !defined('ANTRAIN_MODULECONSTS_DEFINED') ) {
+   define('ANTRAIN_MODULECONSTS_DEFINED', TRUE);
+
+define("_ANTRAIN_CATCH_VAR","X_antrain"); 
+
+} // PMS_MODULECONSTS_DEFINED
+?>
